@@ -1,0 +1,971 @@
+Manifest-Version: 1.0
+Specification-Title: JavaServer Pages(TM) Standard Tag Library
+Created-By: 1.5.0_06-b03 (Sun Microsystems Inc.)
+Ant-Version: Apache Ant 1.6.5
+Implementation-Title: Sun Java System Application Server
+Specification-Vendor: Sun Microsystems, Inc.
+Specification-Version: 1.2
+Implementation-Vendor-Id: org.apache
+Extension-Name: javax.servlet.jsp.jstl
+Implementation-Version: 1.2
+Implementation-Vendor: Sun Microsystems, Inc.
+
+Name: org/apache/taglibs/standard/tei/XmlParseTEI.class
+SHA1-Digest: Xnuv5j5KUL7awhEW9D7DxMdGHz0=
+
+Name: org/apache/taglibs/standard/tag/rt/sql/QueryTag.class
+SHA1-Digest: pJDbP0eeQQX7/An+/PBC0s6F3lg=
+
+Name: META-INF/LICENSE.txt
+SHA1-Digest: CZ8IMFRum8gw9McRNkCk8GsqnG0=
+
+Name: org/apache/taglibs/standard/tag/el/fmt/SetBundleTag.class
+SHA1-Digest: liQtQLDEXszvypHa5TzCvhB1Juo=
+
+Name: org/apache/taglibs/standard/tag/rt/core/IfTag.class
+SHA1-Digest: YnyR61O98qiHaOUJdn26EXIbmrU=
+
+Name: org/apache/taglibs/standard/extra/spath/ParseException.class
+SHA1-Digest: QnAiUOQUfnFiRPEpIL5dklibkao=
+
+Name: org/apache/taglibs/standard/tag/common/sql/TransactionTagSupport
+ .class
+SHA1-Digest: yaJ+d97tATiylClGAPJw2MaCj9w=
+
+Name: org/apache/taglibs/standard/tag/rt/fmt/FormatDateTag.class
+SHA1-Digest: xRS48ZY+nM94n7MnsUQC5vF5HTA=
+
+Name: javax/servlet/jsp/jstl/tlv/PermittedTaglibsTLV$PermittedTaglibsH
+ andler.class
+SHA1-Digest: 4ICbUvPBfV4V8RornxQT46t+Izw=
+
+Name: org/apache/taglibs/standard/tag/el/fmt/ParseNumberTag.class
+SHA1-Digest: LGXNRdfBtRznoy0JP0rfZMujHK0=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/ParserTest.class
+SHA1-Digest: iPO3xiC/1xdEe5Hjr5n29EWwm7w=
+
+Name: org/apache/taglibs/standard/tei/ForEachTEI.class
+SHA1-Digest: GZEoampczHqGDpWax/t9rU9Lbfg=
+
+Name: org/apache/taglibs/standard/tag/rt/xml/ParseTag.class
+SHA1-Digest: qqEF69zClgR6WW1/NlD2Cvv5EpY=
+
+Name: META-INF/scriptfree.tld
+SHA1-Digest: JwtopzuZjcvH5o0ywf1KsjpTm9Q=
+
+Name: javax/servlet/jsp/jstl/core/IndexedValueExpression.class
+SHA1-Digest: jONaKiGBAC2J4PNO/M/X+ZcfpyY=
+
+Name: org/apache/taglibs/standard/tag/rt/core/OutTag.class
+SHA1-Digest: BxxOlGg+PQC2fVSd5Own4bZR1c8=
+
+Name: org/apache/taglibs/standard/lang/jstl/ImplicitObjects$4.class
+SHA1-Digest: 8JEy4jnmJn/NPpVLXyJctN88PD0=
+
+Name: org/apache/taglibs/standard/lang/jstl/BeanInfoManager.class
+SHA1-Digest: EFwSv9wsrxnJZ3837kydkxxsHLA=
+
+Name: javax/servlet/jsp/jstl/core/IteratedExpression.class
+SHA1-Digest: +9mtZzqBMiwT77S/61MCV2oG5mE=
+
+Name: org/apache/taglibs/standard/tag/common/fmt/SetLocaleSupport.clas
+ s
+SHA1-Digest: Sar19D+IhlJpQN4BVvXH/M2otsA=
+
+Name: org/apache/taglibs/standard/lang/jstl/LessThanOperator.class
+SHA1-Digest: zeQeOcV2+oWEdhRDukBkmXoU7hI=
+
+Name: org/apache/taglibs/standard/extra/spath/Step.class
+SHA1-Digest: SNAInthor/D4XGL6gt12rzmv76I=
+
+Name: org/apache/taglibs/standard/tag/rt/xml/TransformTag.class
+SHA1-Digest: 2SrXrJY/eM+XrzSLCiL47dMHQbc=
+
+Name: org/apache/taglibs/standard/lang/jstl/parser/ParseException.clas
+ s
+SHA1-Digest: I+wMA1ZAVld+p92LEN7Oj8/y1Eg=
+
+Name: org/apache/taglibs/standard/tag/el/sql/TransactionTag.class
+SHA1-Digest: 5SBDVKROEOf2x3dozy1FJDZd9Ec=
+
+Name: org/apache/taglibs/standard/lang/jstl/ModulusOperator.class
+SHA1-Digest: 4UJ43tuwlUTl1ueJMy8qWGEnWSo=
+
+Name: org/apache/taglibs/standard/tag/common/core/ImportSupport$PrintW
+ riterWrapper.class
+SHA1-Digest: ySaJMgd2VNysFeugBIjpTDdcilQ=
+
+Name: org/apache/taglibs/standard/tag/common/core/RedirectSupport.clas
+ s
+SHA1-Digest: VMCbN09X9VQZtQm+k8wS1ckC6Mg=
+
+Name: org/apache/taglibs/standard/lang/jstl/ExpressionString.class
+SHA1-Digest: tvee+LtFSETpZ7KgcSi28+9/qRQ=
+
+Name: org/apache/taglibs/standard/tag/rt/fmt/ParseNumberTag.class
+SHA1-Digest: SG67NebZajQ0ID1CzXLwGj3byf4=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/beans/PublicInterface
+ 2.class
+SHA1-Digest: urd+SfjWfb2PCPsoo00AyY052w8=
+
+Name: org/apache/taglibs/standard/tag/common/sql/SetDataSourceTagSuppo
+ rt.class
+SHA1-Digest: xuyoN0hw6xx0Luhdq+pFgjv0iO0=
+
+Name: org/apache/taglibs/standard/tag/el/fmt/BundleTag.class
+SHA1-Digest: JSIkxwAZCms4kf6CxlwZOVoKfSQ=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/Bean2.class
+SHA1-Digest: aAmcHdr3sctjdNd/dJOR59HUwno=
+
+Name: org/apache/taglibs/standard/extra/spath/AttributePredicate.class
+SHA1-Digest: Nb/JHfS7vX1GKkeMo10nv9d3a9s=
+
+Name: org/apache/taglibs/standard/tag/common/core/ParamParent.class
+SHA1-Digest: fRKpxA45h22ijpad8IYnX5x+PGQ=
+
+Name: org/apache/taglibs/standard/tag/el/core/ForEachTag.class
+SHA1-Digest: E3sHaHcf6a7XEwtV3K3E/lUu348=
+
+Name: org/apache/taglibs/standard/lang/jstl/ELEvaluator.class
+SHA1-Digest: q3Uz4B/cUi9oH/lX4crjRAd4WVM=
+
+Name: org/apache/taglibs/standard/lang/jstl/MinusOperator.class
+SHA1-Digest: PJuqkMV/03cWIetQkhmuFvtQ8x4=
+
+Name: org/apache/taglibs/standard/tag/common/sql/UpdateTagSupport.clas
+ s
+SHA1-Digest: hzw22M/uTLOhNnz5qsoijCu8QzE=
+
+Name: org/apache/taglibs/standard/tag/rt/fmt/SetTimeZoneTag.class
+SHA1-Digest: SCkiVtG6pIW6RkVVRhFlTpJDaU0=
+
+Name: org/apache/taglibs/standard/lang/jstl/DivideOperator.class
+SHA1-Digest: T1vKefZK1zPZFBo1tvUmGMdRbZM=
+
+Name: org/apache/taglibs/standard/tag/common/core/OutSupport.class
+SHA1-Digest: ++WuFBqmTWGGULj29AGzfRnA3zU=
+
+Name: org/apache/taglibs/standard/tag/el/fmt/ParseDateTag.class
+SHA1-Digest: hbjsVGstZ0ZRV8IGYDlqyP2TLxk=
+
+Name: org/apache/taglibs/standard/tag/el/sql/QueryTag.class
+SHA1-Digest: TxQpXPNsXwhq2K82w/RbbyFJpDI=
+
+Name: org/apache/taglibs/standard/lang/jstl/PropertySuffix.class
+SHA1-Digest: k5drCQ/eK0n0p/4NSiA9LjraFLY=
+
+Name: javax/servlet/jsp/jstl/tlv/ScriptFreeTLV.class
+SHA1-Digest: +1o7xuH7Ff+CzawpOi4wNvK+gDM=
+
+Name: org/apache/taglibs/standard/tag/common/fmt/TimeZoneSupport.class
+SHA1-Digest: IASBCKMrdbAlplBIKebjLwNN1pQ=
+
+Name: org/apache/taglibs/standard/tag/el/core/ImportTag.class
+SHA1-Digest: d2IJjTAv+S4OcPuciRy5yglDCt0=
+
+Name: org/apache/taglibs/standard/tag/rt/sql/UpdateTag.class
+SHA1-Digest: WtiFN7FKEETDeJfgDOX9gegxAcs=
+
+Name: org/apache/taglibs/standard/tag/rt/core/RedirectTag.class
+SHA1-Digest: Ood6ezFJ6BKE7wZiTHzYZI1Iul0=
+
+Name: org/apache/taglibs/standard/tag/common/xml/UnresolvableException
+ .class
+SHA1-Digest: 8gXf3JwuicovOLgIdKxwG2lEFgc=
+
+Name: META-INF/fmt-1_0-rt.tld
+SHA1-Digest: xBqEAjgPpHDX5ZY0RMpiWjhfsxA=
+
+Name: org/apache/taglibs/standard/tag/common/core/RemoveTag.class
+SHA1-Digest: 4ZHtnEBoycaOqEmL7D7BdudOQYo=
+
+Name: org/apache/taglibs/standard/resources/Resources_ja.properties
+SHA1-Digest: 8daQXuUve/4VbmtLYORIGPOi7uw=
+
+Name: javax/servlet/jsp/jstl/sql/ResultImpl.class
+SHA1-Digest: 5eofeXT2s7RkDEJjgkHLNjGER4Q=
+
+Name: org/apache/taglibs/standard/lang/jstl/NotOperator.class
+SHA1-Digest: 9r6kOOnv8E7kRxDIKrTAk/8iLsg=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/beans/PrivateBean2c.c
+ lass
+SHA1-Digest: KI9EFB2u9W6ZZ3mwyMwpk8SMzlI=
+
+Name: org/apache/taglibs/standard/tag/common/core/ImportSupport$Import
+ ResponseWrapper.class
+SHA1-Digest: DDNMTSKNVo96UtwCcUkAU6q4Z9Y=
+
+Name: org/apache/taglibs/standard/tag/common/xml/ParseSupport$JstlEnti
+ tyResolver.class
+SHA1-Digest: bOya7XPHw9DrwMh4BR0IUNYjrtI=
+
+Name: org/apache/taglibs/standard/lang/jstl/NamedValue.class
+SHA1-Digest: 3lRxUt1de1jiJUD3f3jwoW1JJkw=
+
+Name: org/apache/taglibs/standard/tag/el/fmt/MessageTag.class
+SHA1-Digest: hXxh06L9S1ri/w5ggkVfwKbAjP0=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/beans/PublicBean1.cla
+ ss
+SHA1-Digest: eXUNuaTblDS+ynx2LfKaSDDD2Cs=
+
+Name: javax/servlet/jsp/jstl/tlv/ScriptFreeTLV$MyContentHandler.class
+SHA1-Digest: YtUpAd//vHZkp+3qimsREWSpcSE=
+
+Name: org/apache/taglibs/standard/tag/common/fmt/RequestEncodingSuppor
+ t.class
+SHA1-Digest: 9hc4ApWcOE185Ujcc01CYFDtyPc=
+
+Name: org/apache/taglibs/standard/tlv/JstlCoreTLV.class
+SHA1-Digest: vQEzb4KCOttcSno8hOMsZkpcClk=
+
+Name: org/apache/taglibs/standard/lang/jstl/OrOperator.class
+SHA1-Digest: xyVArJxb/D50s8nh4KtBkQ0Wxf8=
+
+Name: org/apache/taglibs/standard/tag/common/core/ParamSupport$ParamMa
+ nager.class
+SHA1-Digest: y3ScqOF9tYDdme+nI/t7Jn36RZk=
+
+Name: org/apache/taglibs/standard/tag/common/sql/DataSourceUtil.class
+SHA1-Digest: U7Y1H7mZ4uiH/n3+XYTWB/MxGNw=
+
+Name: org/apache/taglibs/standard/lang/jstl/IntegerDivideOperator.clas
+ s
+SHA1-Digest: 4CTmdU4X/7fraPvfAAWi6scfDTs=
+
+Name: org/apache/taglibs/standard/tag/common/fmt/SetTimeZoneSupport.cl
+ ass
+SHA1-Digest: iwtPID2eYDFr7zElUuJWxgFVLBo=
+
+Name: org/apache/taglibs/standard/lang/jstl/NullLiteral.class
+SHA1-Digest: UA4ew8VOsE327c+r8kvxUkbPkaw=
+
+Name: org/apache/taglibs/standard/lang/jstl/ImplicitObjects$8.class
+SHA1-Digest: CU4eFCdvor+GOWn3idZM4emRqcM=
+
+Name: org/apache/taglibs/standard/lang/jstl/parser/SimpleCharStream.cl
+ ass
+SHA1-Digest: r5Db8Sfe+ThZQ0eJfkE47NuG3oU=
+
+Name: org/apache/taglibs/standard/lang/jstl/EqualsOperator.class
+SHA1-Digest: BpkWZaO41XN0OFJ98HmofwPqINM=
+
+Name: org/apache/taglibs/standard/tag/common/core/DeclareTag.class
+SHA1-Digest: /Zb8HhD3Iro4sasDVGUeOv9/my0=
+
+Name: org/apache/taglibs/standard/tag/common/xml/IfTag.class
+SHA1-Digest: qhp58gAIWgeAPXkuAKm+/N8892o=
+
+Name: org/apache/taglibs/standard/lang/jstl/BinaryOperatorExpression.c
+ lass
+SHA1-Digest: BGsRM7F5qScIQZH1LSXFYA0IVX0=
+
+Name: org/apache/taglibs/standard/tlv/JstlCoreTLV$Handler.class
+SHA1-Digest: o1a57OuBUodQXTSAHdj3+Pl2zHI=
+
+Name: org/apache/taglibs/standard/tag/common/xml/WhenTag.class
+SHA1-Digest: ASq8i9RdAQTBTdmnecsIwNNHUKA=
+
+Name: org/apache/taglibs/standard/tag/common/fmt/ParseNumberSupport.cl
+ ass
+SHA1-Digest: CWEH3mIKApg0mXRdUOdwPsVmudY=
+
+Name: org/apache/taglibs/standard/tag/el/fmt/FormatDateTag.class
+SHA1-Digest: ERUWQvHdqx6luln9M6cG0Zr/ICE=
+
+Name: org/apache/taglibs/standard/tag/el/core/ExpressionUtil.class
+SHA1-Digest: imvpiJrwEj9bYJxWVEgvN5kurnc=
+
+Name: org/apache/taglibs/standard/extra/spath/ASCII_UCodeESC_CharStrea
+ m.class
+SHA1-Digest: R/f6Ggsc1EmRDV8MnD7Xyp+pnZk=
+
+Name: org/apache/taglibs/standard/lang/jstl/AndOperator.class
+SHA1-Digest: psEAajZiaSZu5036Jcoam4OyACw=
+
+Name: org/apache/taglibs/standard/tag/el/core/ForTokensTag.class
+SHA1-Digest: XH+ajfyk+TrKzgesiHTNiSLNrT0=
+
+Name: org/apache/taglibs/standard/tag/rt/fmt/MessageTag.class
+SHA1-Digest: CA8VSpBUdKQQvvkRfQWWetLR3ZI=
+
+Name: org/apache/taglibs/standard/tlv/JstlSqlTLV.class
+SHA1-Digest: esdVG768DMERRx8nsdwvWjj94Jg=
+
+Name: org/apache/taglibs/standard/lang/jstl/ImplicitObjects.class
+SHA1-Digest: 4HqIBlK6mZZm+iVKa3PVOJruDX0=
+
+Name: org/apache/taglibs/standard/tag/common/xml/ParamSupport.class
+SHA1-Digest: QcYp30FxF1Q6qz2jvIDDBOKRHw0=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/Bean2Editor.class
+SHA1-Digest: KDgLqKoTQ4Uk0o3ypAoWZhjZQGw=
+
+Name: org/apache/taglibs/standard/tag/common/xml/JSTLXPathImpl.class
+SHA1-Digest: QfACHxK98PV3swGQMGKvyGDi7GE=
+
+Name: org/apache/taglibs/standard/lang/jstl/MultiplyOperator.class
+SHA1-Digest: 8MRAzGt7PKcB7KBwkWj5G9gEaS4=
+
+Name: org/apache/taglibs/standard/lang/jstl/parser/Token.class
+SHA1-Digest: NebjNAgY9gu6BEgUrC8rPjOGlm8=
+
+Name: org/apache/taglibs/standard/tag/common/sql/QueryTagSupport.class
+SHA1-Digest: A5YdSWR2CBXcS88QXGbV/93wihw=
+
+Name: org/apache/taglibs/standard/tag/el/xml/ParseTag.class
+SHA1-Digest: sAhJz3O0ALhSMBCp/IG7drT2Zo4=
+
+Name: org/apache/taglibs/standard/tag/common/sql/DriverTag.class
+SHA1-Digest: 7Ku2IJVFchJ5L3EGCqOFYTBO5og=
+
+Name: org/apache/taglibs/standard/lang/jstl/ImplicitObjects$2.class
+SHA1-Digest: 4Fp/PP9nI/GVBBHqFsBWj5xb/FQ=
+
+Name: org/apache/taglibs/standard/lang/jstl/Constants.class
+SHA1-Digest: 4BpdzxZB/n8ny4rXsSddhQAtJnc=
+
+Name: org/apache/taglibs/standard/tag/common/xml/JSTLNodeList.class
+SHA1-Digest: hM3eiEv902KnTyMa1e6Kx2nzsIs=
+
+Name: org/apache/taglibs/standard/tag/common/core/NullAttributeExcepti
+ on.class
+SHA1-Digest: 27TJoTPovRM4cfz/51Cp3vMW9WQ=
+
+Name: org/apache/taglibs/standard/lang/jstl/ComplexValue.class
+SHA1-Digest: IWJhGWI+O4lkGx+Djh09rj8yG9w=
+
+Name: org/apache/taglibs/standard/tag/rt/fmt/RequestEncodingTag.class
+SHA1-Digest: 2veR2mIWJpFrl2pHC/0qqyw9M00=
+
+Name: org/apache/taglibs/standard/lang/jstl/Logger.class
+SHA1-Digest: 0HXHJhpdVpgl5Eh6Jb2mIlZnamk=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/EvaluationTest.class
+SHA1-Digest: a/fNbCkLKFiawkbYYxNeNVMpbbE=
+
+Name: org/apache/taglibs/standard/lang/jstl/ImplicitObjects$9.class
+SHA1-Digest: 9Cmq4UguJ5r0wbONNxedpzMB4Fs=
+
+Name: org/apache/taglibs/standard/lang/jstl/EqualityOperator.class
+SHA1-Digest: P8CRiq0MgciH0eN7qJnU/U0NzuU=
+
+Name: org/apache/taglibs/standard/lang/jstl/NotEqualsOperator.class
+SHA1-Digest: uepXaeYi79xbmFus9JVLPaFhGGs=
+
+Name: javax/servlet/jsp/jstl/core/ConditionalTagSupport.class
+SHA1-Digest: 7FeWfkUQLzfMOYoLIIPMbgjdqxc=
+
+Name: org/apache/taglibs/standard/tag/el/xml/TransformTag.class
+SHA1-Digest: Zed5nX9vvR6ccbALAtPc5g8tQQw=
+
+Name: org/apache/taglibs/standard/lang/jstl/ImplicitObjects$5.class
+SHA1-Digest: NMf8Hv6siijMq1B4ezSwv/KvtkI=
+
+Name: org/apache/taglibs/standard/tag/common/xml/TransformSupport$Safe
+ Writer.class
+SHA1-Digest: GCDq4fjHrK66+sAhIA42MdpCSu0=
+
+Name: org/apache/taglibs/standard/lang/jstl/BeanInfoIndexedProperty.cl
+ ass
+SHA1-Digest: cpgJpwM3uLPDvMFtcqc8/iYlcPY=
+
+Name: org/apache/taglibs/standard/tag/common/core/UrlSupport.class
+SHA1-Digest: bVTc3/b9S84i4q5GWn2KrPhSpB4=
+
+Name: META-INF/x.tld
+SHA1-Digest: tS7bjKsKCFf8E/2AWrYRA2xlVck=
+
+Name: org/apache/taglibs/standard/tag/rt/sql/DateParamTag.class
+SHA1-Digest: v4TfCfk73HEvA1a0LuQpGEz72Mk=
+
+Name: org/apache/taglibs/standard/tag/el/xml/ParamTag.class
+SHA1-Digest: ixNh8/mjgNFKZBU6aBgrWrgYRTw=
+
+Name: META-INF/eclipse.inf
+SHA1-Digest: 09gN05tobgS/MdtqyTNQhOhB73M=
+
+Name: org/apache/taglibs/standard/functions/Functions.class
+SHA1-Digest: sPSGWiqG1QVKw6NIqJNwJlasEXc=
+
+Name: META-INF/permittedTaglibs.tld
+SHA1-Digest: NnRHIZS6n828OUX67u3ioEbuPzo=
+
+Name: org/apache/taglibs/standard/tag/rt/fmt/TimeZoneTag.class
+SHA1-Digest: DSh6m7867UQKn7UXj0cAJ3H0f68=
+
+Name: org/apache/taglibs/standard/tag/rt/fmt/SetBundleTag.class
+SHA1-Digest: W8ZWJlQY+2vJ1ztAOHJgk4Pku7U=
+
+Name: org/apache/taglibs/standard/extra/spath/ASCII_CharStream.class
+SHA1-Digest: Xf7IsiZREQh3qPC/Eehh//+S05Q=
+
+Name: org/apache/taglibs/standard/tag/common/core/ForEachSupport$ForEa
+ chIterator.class
+SHA1-Digest: frSkducYK+y8EsG1sUR6kCFYZUw=
+
+Name: org/apache/taglibs/standard/tag/common/fmt/ParseDateSupport.clas
+ s
+SHA1-Digest: CgqImeJhp1lobzfnnTi2QDz530o=
+
+Name: org/apache/taglibs/standard/lang/jstl/parser/ELParserConstants.c
+ lass
+SHA1-Digest: QqpasBX178x+S/R1OdCMPikuJs8=
+
+Name: org/apache/taglibs/standard/lang/jstl/BooleanLiteral.class
+SHA1-Digest: EMU3NXv7ogO/VkLcJjxikyu1KKo=
+
+Name: org/apache/taglibs/standard/lang/jstl/FloatingPointLiteral.class
+SHA1-Digest: J6cFyviccntudJldk4/esZYelhI=
+
+Name: org/apache/taglibs/standard/lang/jstl/BinaryOperator.class
+SHA1-Digest: xlzQ9e9ySVRATMAbruTzFECBxu8=
+
+Name: org/apache/taglibs/standard/tag/common/core/OtherwiseTag.class
+SHA1-Digest: 2mlcZ+UVZdgkCsbBKwOL/20zwzo=
+
+Name: org/apache/taglibs/standard/tlv/JstlXmlTLV$1.class
+SHA1-Digest: wXo/gcqGTyPdftUVV2g+Jj2EfEo=
+
+Name: org/apache/taglibs/standard/tag/common/xml/ForEachTag.class
+SHA1-Digest: DRoX1YkeWx2s9tXwFa71momngaA=
+
+Name: org/apache/taglibs/standard/tag/rt/core/SetTag.class
+SHA1-Digest: yjqEZVTP3z4zurRBQzS4nhqmrRI=
+
+Name: javax/servlet/jsp/jstl/core/LoopTagSupport.class
+SHA1-Digest: xDIfwweSIEO1rwenQuKh6IJf1o0=
+
+Name: org/apache/taglibs/standard/tag/rt/core/UrlTag.class
+SHA1-Digest: iQTVmLtzvluQC7BGuVs7S3epzIA=
+
+Name: org/apache/taglibs/standard/lang/jstl/UnaryOperatorExpression.cl
+ ass
+SHA1-Digest: l9VaVg8s92mGaCQn2enHhuCeXOk=
+
+Name: org/apache/taglibs/standard/tag/common/xml/ParseSupport.class
+SHA1-Digest: YxmLSRL8GdpQQh4P69/0Eubr3xo=
+
+Name: org/apache/taglibs/standard/tag/el/core/IfTag.class
+SHA1-Digest: cBLqnoYW00+cryBPqRZAviwa570=
+
+Name: org/apache/taglibs/standard/lang/jstl/PlusOperator.class
+SHA1-Digest: MeF1m1CVEX3ZBaiUi9AH9Ryd+Eg=
+
+Name: org/apache/taglibs/standard/tag/el/fmt/SetLocaleTag.class
+SHA1-Digest: 4A3V2eMPKm5J8iYwK31puwvOsl4=
+
+Name: META-INF/sql-1_0.tld
+SHA1-Digest: XRWvQDr0xzDOcKLOVB3CpzvgJt4=
+
+Name: org/apache/taglibs/standard/tei/DeclareTEI.class
+SHA1-Digest: xM7AenkPO4JCKpbsRZNUYZFjNnU=
+
+Name: META-INF/c-1_0.tld
+SHA1-Digest: zewt8LiWQjfOpRWTKVcVJJLfinA=
+
+Name: META-INF/c.tld
+SHA1-Digest: 3L58cfr4CIGHr+GogkHXTQMdpls=
+
+Name: org/apache/taglibs/standard/tei/Util.class
+SHA1-Digest: XLVxfyFFSmrsy6ykdWwzZ3I27ik=
+
+Name: org/apache/taglibs/standard/extra/spath/SPathParserConstants.cla
+ ss
+SHA1-Digest: ISt82H3JwoMJ8XZqJ3tA2TTSY0w=
+
+Name: org/apache/taglibs/standard/tag/el/fmt/FormatNumberTag.class
+SHA1-Digest: ytsXfTPL0Amk3SdzfBRC7xNdhWg=
+
+Name: org/apache/taglibs/standard/lang/jstl/parser/ELParserTokenManage
+ r.class
+SHA1-Digest: 8/f2vo4TqY6qCwZmw+0pCxZpENg=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/beans/Factory.class
+SHA1-Digest: 4wJHP1YlBoQVhp52O0VvnUqTzKg=
+
+Name: org/apache/taglibs/standard/tag/common/xml/TransformSupport$Jstl
+ UriResolver.class
+SHA1-Digest: mNPGQN7f2nNsNNM6AFsOoGDb30k=
+
+Name: org/apache/taglibs/standard/resources/Resources.class
+SHA1-Digest: ER7+vWlw8CfcOz+LA7co0p13rME=
+
+Name: org/apache/taglibs/standard/tag/common/xml/XPathUtil.class
+SHA1-Digest: pN1OQJ00fuvB9xZXy5AYO+BiK0s=
+
+Name: org/apache/taglibs/standard/tag/rt/core/ParamTag.class
+SHA1-Digest: 0d851RuYEa5QOpb8ByWN2CEUhWA=
+
+Name: org/apache/taglibs/standard/lang/jstl/VariableResolver.class
+SHA1-Digest: IFkvNGao+OhMWASZ7OIVWT59o7M=
+
+Name: org/apache/taglibs/standard/tag/common/core/ForEachSupport$1Enum
+ erationAdapter.class
+SHA1-Digest: mH2STVljKYOE3amNwngGp+0hRmY=
+
+Name: org/apache/taglibs/standard/tag/common/xml/JSTLXPathConstants.cl
+ ass
+SHA1-Digest: oUF6i5Jpl6v4b+RCT7lh0moYA8Q=
+
+Name: org/apache/taglibs/standard/tag/rt/core/WhenTag.class
+SHA1-Digest: WDahVChPZGtK+ny4m0D9b80sxg0=
+
+Name: org/apache/taglibs/standard/tag/rt/core/ForEachTag.class
+SHA1-Digest: +uZvax3hWr1uB8Uf29SfIYMW/mY=
+
+Name: org/apache/taglibs/standard/lang/jstl/ImplicitObjects$6.class
+SHA1-Digest: dIBFiTvHcupdY7lxjPJ89L0GGHs=
+
+Name: org/apache/taglibs/standard/tag/common/core/CatchTag.class
+SHA1-Digest: AUIkgSaSARaLQXuijNlUo9A2Z0U=
+
+Name: org/apache/taglibs/standard/lang/jstl/EmptyOperator.class
+SHA1-Digest: KJ3p7851inlowGB/2HV3ujQzElY=
+
+Name: org/apache/taglibs/standard/tag/common/core/ImportSupport.class
+SHA1-Digest: in5WV/wOauOCc7SXBWpWwfYN/rQ=
+
+Name: META-INF/fmt-1_0.tld
+SHA1-Digest: GM5wKEPqiaBNAceMCheef61Tb2U=
+
+Name: org/apache/taglibs/standard/tag/common/xml/JSTLXPathVariableReso
+ lver.class
+SHA1-Digest: mvq+ui6VPy26d2CbqJ1YVSpK/uQ=
+
+Name: org/apache/taglibs/standard/lang/jstl/RelationalOperator.class
+SHA1-Digest: 6lZ0TwO1ZbO8VoPjIUJP8r0MxjY=
+
+Name: org/apache/taglibs/standard/tag/common/fmt/BundleSupport.class
+SHA1-Digest: gtUki4dRSv5+5PEKPIcWNboUa9w=
+
+Name: org/apache/taglibs/standard/tag/common/sql/DataSourceWrapper.cla
+ ss
+SHA1-Digest: RM5RzBIEUSKuNjvI6ise2Viu66s=
+
+Name: org/apache/taglibs/standard/extra/spath/Predicate.class
+SHA1-Digest: pNCiYJu1Ny+2UlehvOQ+/TdXqL4=
+
+Name: org/apache/taglibs/standard/tag/rt/xml/ParamTag.class
+SHA1-Digest: 8/P5apw7bhdFNkPyXGXH8IBjQeg=
+
+Name: org/apache/taglibs/standard/lang/jstl/ValueSuffix.class
+SHA1-Digest: So+SetuETeAUTyRPJ/PmptKciXQ=
+
+Name: org/apache/taglibs/standard/tag/rt/fmt/ParamTag.class
+SHA1-Digest: /AhH0QTBsZYNydFYUbDFRIAauC8=
+
+Name: org/apache/taglibs/standard/lang/jstl/Literal.class
+SHA1-Digest: 2NNoaxfUx5vEK7xZh+dcGZcTYkE=
+
+Name: META-INF/c-1_0-rt.tld
+SHA1-Digest: 5R/jRmjjiyloEhQI5rftbV4qA+0=
+
+Name: javax/servlet/jsp/jstl/sql/SQLExecutionTag.class
+SHA1-Digest: IrhJQRm/G8/Z3INEkSXCzYI6GsA=
+
+Name: org/apache/taglibs/standard/lang/jstl/parser/ELParser$JJCalls.cl
+ ass
+SHA1-Digest: uKR+sumNgrJam1A5wtMFMvwKSSM=
+
+Name: META-INF/x-1_0.tld
+SHA1-Digest: XtpMFxfuFS9OYDvpMESagBOnfHc=
+
+Name: org/apache/taglibs/standard/tag/rt/fmt/FormatNumberTag.class
+SHA1-Digest: CCu9ouD2YAE/VOYAQEdZaXieGk0=
+
+Name: javax/servlet/jsp/jstl/core/LoopTagSupport$1Status.class
+SHA1-Digest: dxc+dNWYlKg37vok3GQvwvvg/kw=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/beans/PublicBean1b.cl
+ ass
+SHA1-Digest: JT9thDGGJz08GO2E/goCS6LaJo0=
+
+Name: org/apache/taglibs/standard/tag/common/sql/ParamTagSupport.class
+SHA1-Digest: z9aYkuGTQeTyn4rV+nVcXESMNsQ=
+
+Name: javax/servlet/jsp/jstl/core/IteratedValueExpression.class
+SHA1-Digest: ZKhDXjDJ6pWQqQfQneS84eiDy24=
+
+Name: org/apache/taglibs/standard/lang/jstl/PrimitiveObjects.class
+SHA1-Digest: ZzT9jFsQn7vzpLb81vZUSepcr+s=
+
+Name: META-INF/fn.tld
+SHA1-Digest: LczzRil8YoZP8s7Wiq331w3tWrg=
+
+Name: org/apache/taglibs/standard/tag/common/core/ForTokensSupport.cla
+ ss
+SHA1-Digest: eGXs9C0y+LfCuBnAdak8WBYFYGg=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/beans/PrivateBean1a.c
+ lass
+SHA1-Digest: eaGlhyMMvWvb6rRBEdwYmrnnXdE=
+
+Name: org/apache/taglibs/standard/tag/common/xml/JSTLXPathNamespaceCon
+ text.class
+SHA1-Digest: PSjq6TTccGY4izOsA6bvFc23dUk=
+
+Name: org/apache/taglibs/standard/tei/XmlTransformTEI.class
+SHA1-Digest: Z1pSDbeVFKvitlkbaXEKt4+fAUM=
+
+Name: org/apache/taglibs/standard/extra/spath/Token.class
+SHA1-Digest: ey2gwmyr/vYjDfblrLIvGaGDovY=
+
+Name: org/apache/taglibs/standard/tag/common/core/Util.class
+SHA1-Digest: r25c0jc9HWnZraVM6YAv3MX3r3E=
+
+Name: org/apache/taglibs/standard/lang/jstl/Resources_ja.properties
+SHA1-Digest: h6iglZ18ZHW/9S85Nsh5Coec6r8=
+
+Name: org/apache/taglibs/standard/tag/common/xml/ExprSupport.class
+SHA1-Digest: m0qCZMo8C4IUahtnF0geBARHl/4=
+
+Name: org/apache/taglibs/standard/tag/common/xml/JSTLXPathFactory.clas
+ s
+SHA1-Digest: euZW69aXLmFBlmOnZMiN9FZYfUM=
+
+Name: META-INF/sql-1_0-rt.tld
+SHA1-Digest: eYIkf0QsoIlZTx7f1BqzSXpAJzI=
+
+Name: javax/servlet/jsp/jstl/tlv/PermittedTaglibsTLV.class
+SHA1-Digest: LUP+kcBuLJbMPES78M9b9/Omkv0=
+
+Name: org/apache/taglibs/standard/tag/common/core/SetSupport.class
+SHA1-Digest: iWzI8GAJa5zaWxOORaSOFamCWYE=
+
+Name: org/apache/taglibs/standard/tag/el/core/OutTag.class
+SHA1-Digest: wF4qmIsyAxBB83bl/SHZppVxviA=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/beans/PublicBean2a.cl
+ ass
+SHA1-Digest: UhfOMuZyuDKAxGblJTD8Vt19Qo0=
+
+Name: javax/servlet/jsp/jstl/sql/Result.class
+SHA1-Digest: MiG4zEnc9zCym0p5XD2wqm3hLfo=
+
+Name: org/apache/taglibs/standard/lang/jstl/Expression.class
+SHA1-Digest: BIxciie9voEQze4Ml3kHrA6uZE4=
+
+Name: org/apache/taglibs/standard/lang/jstl/Evaluator.class
+SHA1-Digest: 4AM3Hw1/AuZP8PyqFrJw7mw+WW0=
+
+Name: org/apache/taglibs/standard/tag/el/fmt/RequestEncodingTag.class
+SHA1-Digest: U2k5V+qUNZpOJahhxXFX2t6YVrY=
+
+Name: org/apache/taglibs/standard/tlv/JstlFmtTLV$1.class
+SHA1-Digest: xALDZndbQ5fETbPUjz3YK1MU+Ok=
+
+Name: org/apache/taglibs/standard/extra/spath/SPathFilter.class
+SHA1-Digest: tg3EEjqTsuNpwrzSvXP5JEboRms=
+
+Name: META-INF/x-1_0-rt.tld
+SHA1-Digest: RQZySOdyt/OiZi6Jq7n1+plZqxw=
+
+Name: org/apache/taglibs/standard/tag/common/fmt/FormatNumberSupport.c
+ lass
+SHA1-Digest: 3uJMS8mTCDwTICAjmi98c9hGa9o=
+
+Name: org/apache/taglibs/standard/tag/el/core/UrlTag.class
+SHA1-Digest: Qf0rx2THSgdm8bHn1MLfBv9Q9qI=
+
+Name: org/apache/taglibs/standard/tag/el/sql/DateParamTag.class
+SHA1-Digest: ePj/R5ehrO2RX/vHcpBeiHldKe8=
+
+Name: org/apache/taglibs/standard/tag/common/xml/SetTag.class
+SHA1-Digest: DQvKiaR7qzCsmybkTZ0FU6lAbN8=
+
+Name: org/apache/taglibs/standard/lang/jstl/IntegerLiteral.class
+SHA1-Digest: /o91v1fewQOz/h9n4PEYuYOVSuA=
+
+Name: javax/servlet/jsp/jstl/core/LoopTag.class
+SHA1-Digest: Ms5JCk+yqPzFYH+jx7Of8D6MZFk=
+
+Name: javax/servlet/jsp/jstl/sql/ResultSupport.class
+SHA1-Digest: Vu5N0rcHy8SSfKIr2sUMO3ZwLFQ=
+
+Name: org/apache/taglibs/standard/tag/common/core/ImportSupport$Import
+ ResponseWrapper$1.class
+SHA1-Digest: qbxn5VNfC2h4eVBAhJvcVNLtfxA=
+
+Name: org/apache/taglibs/standard/tag/common/fmt/MessageSupport.class
+SHA1-Digest: MfKsG+a8OVbJikpUu9ulqZiETfg=
+
+Name: javax/servlet/jsp/jstl/tlv/ScriptFreeTLV$1.class
+SHA1-Digest: 4PAxGgHGmqLj+RTZBp7VhCtF4RE=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/Bean1.class
+SHA1-Digest: GtQ1FDLkMXYR22xwb+U0cU5OxGk=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/beans/PrivateBean2b.c
+ lass
+SHA1-Digest: HmA2nq98iFHcIZXabq/NNawEMg4=
+
+Name: org/apache/taglibs/standard/tag/rt/fmt/BundleTag.class
+SHA1-Digest: 8tEJ9OhbfeWqVthxCKOHptrENBE=
+
+Name: javax/servlet/jsp/jstl/core/IteratedExpression$1.class
+SHA1-Digest: cUckdPbJnB8b0ybvWnSA5VSVlvk=
+
+Name: org/apache/taglibs/standard/lang/jstl/ImplicitObjects$1.class
+SHA1-Digest: fxv1ML/8x2GYXURmsz/U1jtH2wI=
+
+Name: org/apache/taglibs/standard/tag/common/fmt/ParamSupport.class
+SHA1-Digest: jF1BO6h9EB980A0fxugatPLxfZo=
+
+Name: org/apache/taglibs/standard/lang/jstl/parser/TokenMgrError.class
+SHA1-Digest: J3c+4XMhEFNCMfBUgWQOWTWPUCM=
+
+Name: org/apache/taglibs/standard/extra/spath/SPathTag.class
+SHA1-Digest: dtezCc/IHFemeTWhs+CRrEQ6t6g=
+
+Name: org/apache/taglibs/standard/tei/ImportTEI.class
+SHA1-Digest: GNdL8dor1DKfl31Vre6NJ404Dh8=
+
+Name: org/apache/taglibs/standard/tag/el/core/WhenTag.class
+SHA1-Digest: zbs1O8V9FWCyLNlrKrMTRgzKb5k=
+
+Name: org/apache/taglibs/standard/lang/jstl/ArraySuffix.class
+SHA1-Digest: QRFE81ezYQF85WD/ZeYGZstrPCQ=
+
+Name: org/apache/taglibs/standard/lang/jstl/UnaryOperator.class
+SHA1-Digest: RjJuVaUtKa3qecn9+HncwSXW1j8=
+
+Name: org/apache/taglibs/standard/lang/jstl/EnumeratedMap.class
+SHA1-Digest: sks+YvvcJFvl7UGsdIoILgSobiQ=
+
+Name: javax/servlet/jsp/jstl/core/LoopTagStatus.class
+SHA1-Digest: Wizm0CePAd4QrYGesk6y8ElZZww=
+
+Name: org/apache/taglibs/standard/tlv/JstlFmtTLV.class
+SHA1-Digest: jrYqlXeTHOmHGZoG89FYPDHo38Q=
+
+Name: org/apache/taglibs/standard/tlv/JstlFmtTLV$Handler.class
+SHA1-Digest: eBjlOttCLHqgvxp4jRGwfg3CKpo=
+
+Name: org/apache/taglibs/standard/lang/jstl/GreaterThanOperator.class
+SHA1-Digest: atZa4iRH/UOLhEjisgY0eKlZpgA=
+
+Name: org/apache/taglibs/standard/extra/spath/Path.class
+SHA1-Digest: wgqcaz6T3W+euYf13OuPuUNgJro=
+
+Name: META-INF/sql.tld
+SHA1-Digest: d9UA0kAI4jOY+wkwUfEs0crTCTA=
+
+Name: org/apache/taglibs/standard/tag/el/xml/ExprTag.class
+SHA1-Digest: yD8SU6l4/O2ta4455wO6VYQuGhk=
+
+Name: org/apache/taglibs/standard/tag/common/sql/DateParamTagSupport.c
+ lass
+SHA1-Digest: ooDxaMIuCNnIbw4PgeAGrsHo0zo=
+
+Name: org/apache/taglibs/standard/tag/el/core/RedirectTag.class
+SHA1-Digest: YIHgqmZiDKJasd0sw5YN5BQ2k6Y=
+
+Name: org/apache/taglibs/standard/lang/jstl/ELException.class
+SHA1-Digest: LCQXyKOSXEBen+KylsdW4SNTtq0=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/StaticFunctionTests.c
+ lass
+SHA1-Digest: Fb2vG0zZ8lzzEHKs451Re43OSyA=
+
+Name: org/apache/taglibs/standard/tag/rt/fmt/SetLocaleTag.class
+SHA1-Digest: RY5f4qXX0AMZkLgjE4oe+UrJd40=
+
+Name: org/apache/taglibs/standard/tag/common/core/ForEachSupport.class
+SHA1-Digest: hJ1R0t41+g9nRL1NI1mWMoGe39I=
+
+Name: org/apache/taglibs/standard/tag/common/core/ForEachSupport$Simpl
+ eForEachIterator.class
+SHA1-Digest: N2db4RJsUWOBNreNUxzzP14HE9Y=
+
+Name: javax/servlet/jsp/jstl/fmt/LocalizationContext.class
+SHA1-Digest: KkyckmgglLEj44YwNIxEQL7JFrM=
+
+Name: org/apache/taglibs/standard/tag/rt/sql/SetDataSourceTag.class
+SHA1-Digest: aWD80G24beYbSp6l12OzVm6gGqo=
+
+Name: org/apache/taglibs/standard/lang/jstl/ImplicitObjects$7.class
+SHA1-Digest: 0VRf6Zn4momapPa0cmAJzx9yoNw=
+
+Name: org/apache/taglibs/standard/tlv/JstlCoreTLV$1.class
+SHA1-Digest: 8+0Vr97+MRbNDT0G/msVmgJFR7M=
+
+Name: org/apache/taglibs/standard/tag/el/fmt/SetTimeZoneTag.class
+SHA1-Digest: E0nUEa8sf8Ss1W/ggF9UbuaUgZI=
+
+Name: org/apache/taglibs/standard/lang/jstl/FunctionInvocation.class
+SHA1-Digest: UkhcZeKjSPtr0vp0I2J1HzsISU0=
+
+Name: org/apache/taglibs/standard/resources/Resources.properties
+SHA1-Digest: oIcQ2l/uKVtD15Wbyi6rH0y0lEE=
+
+Name: org/apache/taglibs/standard/extra/spath/SPathParserTokenManager.
+ class
+SHA1-Digest: b5NVz6sIc9/wUk9JWpmYtLoK4nA=
+
+Name: org/apache/taglibs/standard/lang/jstl/UnaryMinusOperator.class
+SHA1-Digest: kks6lD3ldXq2yAykdSFHR2QJtJY=
+
+Name: org/apache/taglibs/standard/lang/jstl/Coercions.class
+SHA1-Digest: yksdCem1dlzffyPszu9E3bqH0jE=
+
+Name: org/apache/taglibs/standard/lang/support/ExpressionEvaluator.cla
+ ss
+SHA1-Digest: tq4Xd/hsquHM9p9/wfHwJanSkeU=
+
+Name: org/apache/taglibs/standard/tag/rt/xml/ExprTag.class
+SHA1-Digest: wq5Ee+rzHJ3DSLWDV9XeN4FXh2I=
+
+Name: org/apache/taglibs/standard/lang/jstl/GreaterThanOrEqualsOperato
+ r.class
+SHA1-Digest: rqQyZA6bcj8iLcb1bZAwK6dUFeg=
+
+Name: org/apache/taglibs/standard/tag/rt/sql/ParamTag.class
+SHA1-Digest: OFufWffeZx3TLQuVQ7kQDCoFyKo=
+
+Name: org/apache/taglibs/standard/lang/jstl/LessThanOrEqualsOperator.c
+ lass
+SHA1-Digest: j1WG58rvqHVEJcYFuX+EpVKsxjo=
+
+Name: org/apache/taglibs/standard/extra/spath/TokenMgrError.class
+SHA1-Digest: KiQfK5JvORVrr0O/ui+Ho9dYbYc=
+
+Name: org/apache/taglibs/standard/lang/jstl/StringLiteral.class
+SHA1-Digest: dySai6fGmWrmx6cL7Yaqx+egXRQ=
+
+Name: org/apache/taglibs/standard/tlv/JstlSqlTLV$1.class
+SHA1-Digest: tQIEIMRaCTcwLVMaZwBybURdgGk=
+
+Name: javax/servlet/jsp/jstl/tlv/PermittedTaglibsTLV$1.class
+SHA1-Digest: MsEQB91pKBPee5bRuPOfzPOlcLQ=
+
+Name: org/apache/taglibs/standard/lang/jstl/ImplicitObjects$3.class
+SHA1-Digest: +AE/IKBG6834rqUauvYqtD883ds=
+
+Name: org/apache/taglibs/standard/tag/common/fmt/FormatDateSupport.cla
+ ss
+SHA1-Digest: vVM/GHBNsYGi6whufeib2/8udQ8=
+
+Name: org/apache/taglibs/standard/tag/common/core/ParamSupport.class
+SHA1-Digest: SBfXsFKl3NJiXnGgxAAL4DsXnqE=
+
+Name: javax/servlet/jsp/jstl/fmt/LocaleSupport.class
+SHA1-Digest: EEe8Hly5B6Xt727+SvtacSlzBNY=
+
+Name: org/apache/taglibs/standard/lang/jstl/parser/ELParser.class
+SHA1-Digest: aE3XbdKF2dW/LYQJrXNBe0InN4M=
+
+Name: org/apache/taglibs/standard/tlv/JstlXmlTLV.class
+SHA1-Digest: 1wzuzM8J8akiSOwqsKqgnhPTezM=
+
+Name: META-INF/fmt.tld
+SHA1-Digest: /7t/+BcDFNOZByTXid1aK3a5ZRg=
+
+Name: org/apache/taglibs/standard/tlv/JstlSqlTLV$Handler.class
+SHA1-Digest: Is79sHeRhznZcWNGeahEFk8ohyE=
+
+Name: org/apache/taglibs/standard/tag/rt/core/ForTokensTag.class
+SHA1-Digest: +W4qtN11BbkpIsLZTqE6LXSjdcE=
+
+Name: org/apache/taglibs/standard/lang/jstl/JSTLVariableResolver.class
+SHA1-Digest: 5NE45gEBT/lVdhmOiNTy7axySyA=
+
+Name: org/apache/taglibs/standard/tag/common/fmt/SetBundleSupport.clas
+ s
+SHA1-Digest: hRZQaZv4VvuI33ko4iZSiwN8nH0=
+
+Name: org/apache/taglibs/standard/tag/el/sql/SetDataSourceTag.class
+SHA1-Digest: sm3DJ1u9uC7nxq9gPc8G1qGkmBY=
+
+Name: org/apache/taglibs/standard/tag/el/sql/UpdateTag.class
+SHA1-Digest: EHKDXclA9j3aN1kLLadslxiY7SQ=
+
+Name: org/apache/taglibs/standard/lang/jstl/Resources.properties
+SHA1-Digest: wPjYs0e3bx74wnNF7RxQaQH9NEs=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/PageContextImpl.class
+SHA1-Digest: xiE4tKSbwReBq0oE5BUuaLmD9fI=
+
+Name: org/apache/taglibs/standard/tlv/JstlXmlTLV$Handler.class
+SHA1-Digest: uyYSTxjBLaQtE/GX6vbzpPnYW7M=
+
+Name: org/apache/taglibs/standard/lang/support/ExpressionEvaluatorMana
+ ger.class
+SHA1-Digest: QEI4XPAeR9F+Dj+TnZxmHBdhN68=
+
+Name: org/apache/taglibs/standard/tag/common/sql/ResultImpl.class
+SHA1-Digest: eezYkozT4yjTzoGTWUrC3wYnZew=
+
+Name: org/apache/taglibs/standard/extra/spath/AbsolutePath.class
+SHA1-Digest: BFlkSWAf3K6+NL++oyF1Wo/9nck=
+
+Name: org/apache/taglibs/standard/tag/el/core/ParamTag.class
+SHA1-Digest: fvWo+O+IMTfwMRzhIh9up3k8nbQ=
+
+Name: org/apache/taglibs/standard/tag/common/xml/TransformSupport.clas
+ s
+SHA1-Digest: eYDrjCEpEhS45KiAkh09h7qq+B0=
+
+Name: org/apache/taglibs/standard/tag/common/xml/XPathUtil$1.class
+SHA1-Digest: tB1y1sBnA1QQmJDnWMp2VqIYiTE=
+
+Name: javax/servlet/jsp/jstl/core/Config.class
+SHA1-Digest: CB6kN7WTK+DAVhyNd3oJDeOLdwo=
+
+Name: org/apache/taglibs/standard/tlv/JstlBaseTLV.class
+SHA1-Digest: XxWPgBC6kfKzHSRSq1us2vr6wmE=
+
+Name: org/apache/taglibs/standard/tag/el/fmt/ParamTag.class
+SHA1-Digest: IX7DNNVEhWMFEVmx8upenCL7r3U=
+
+Name: org/apache/taglibs/standard/Version.class
+SHA1-Digest: XEEJiTQzMB3rEzYV3mrBlWa115k=
+
+Name: org/apache/taglibs/standard/tag/rt/sql/TransactionTag.class
+SHA1-Digest: mSseYq89m0tBr4QvXWXu0MeKVMI=
+
+Name: org/apache/taglibs/standard/lang/jstl/BeanInfoProperty.class
+SHA1-Digest: lqAsfuC+dnDiljYaFzu/YXF9wkQ=
+
+Name: org/apache/taglibs/standard/extra/spath/SPathParser$JJCalls.clas
+ s
+SHA1-Digest: I4r4haXkoR7d9oN+Ee0b2FcSrPM=
+
+Name: org/apache/taglibs/standard/tag/common/core/WhenTagSupport.class
+SHA1-Digest: Mt4WAKnSmsKz/5Xmwepdac3anGs=
+
+Name: org/apache/taglibs/standard/tag/el/sql/ParamTag.class
+SHA1-Digest: qH86PlcWe9AW7kwQjBrRWdQ+c1g=
+
+Name: org/apache/taglibs/standard/extra/spath/SPathParser.class
+SHA1-Digest: L4D1iGtOhIzAYmM3wuAHIYfx5U4=
+
+Name: org/apache/taglibs/standard/tag/rt/core/ImportTag.class
+SHA1-Digest: KUY5TGMSsJ4yhXEOmyHvnlSFYpY=
+
+Name: org/apache/taglibs/standard/tag/el/core/SetTag.class
+SHA1-Digest: 3YVo0EwFAkCaTb1WiB3RkgZoNSQ=
+
+Name: org/apache/taglibs/standard/lang/jstl/ArithmeticOperator.class
+SHA1-Digest: 3Yt13JlNXemUHXzhO0HDP2aiLHE=
+
+Name: org/apache/taglibs/standard/lang/jstl/test/beans/PrivateBean2d.c
+ lass
+SHA1-Digest: muC6dCNYKl28vm5soWgMUsY9aBE=
+
+Name: org/apache/taglibs/standard/extra/spath/RelativePath.class
+SHA1-Digest: BJHrDp+fM0L5dqZZ4MmPpBJnDqw=
+
+Name: org/apache/taglibs/standard/tag/rt/fmt/ParseDateTag.class
+SHA1-Digest: u9kRf613y8tLy57/UR7H2MWPhZs=
+
+Name: org/apache/taglibs/standard/tag/el/fmt/TimeZoneTag.class
+SHA1-Digest: KipJn38DKxbL9iQDkqbFZywGYTQ=
+
+Name: org/apache/taglibs/standard/tag/common/core/ChooseTag.class
+SHA1-Digest: 8NkVDwiqTYbMKPEjbYgd9gJMEuM=
+
